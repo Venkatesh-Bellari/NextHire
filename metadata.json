@@ -1,0 +1,8 @@
+{
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "name": "NextHire: AI-Powered Career Platform",
+  "description": "",
+  "prompt": ""
+}
